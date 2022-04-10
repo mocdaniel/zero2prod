@@ -1,0 +1,2 @@
+[target.aar64-apple-darwin]
+rustflags = ["-C", "link-args=-fuse-ld=/opt/homebrew/bin/zld"]
